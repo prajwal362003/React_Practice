@@ -1,0 +1,33 @@
+.container1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: papayawhip;
+  border: 1px solid black;
+  border-radius: 20px;
+  width: 50rem;
+  margin-bottom: 30px;
+  margin-left: 20rem;
+}
+
+.h1 {
+  text-align: center;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+
+.ip {
+  height: 30px;
+  width: 50em;
+  margin-bottom: 20px;
+}
+
+.btn {
+  background-color: green;
+  font-weight: bolder;
+  font-size: 1rem;
+  /* margin-bottom: 2px; */
+}
